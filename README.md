@@ -4,4 +4,4 @@ I'll be posting blogs here talking about my progress in the project <a href="htt
 
 ### Progress:
 
-<a>Week 1 - Community bonding</a>
+<a href="">Week 1 - Community bonding</a>

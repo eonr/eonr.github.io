@@ -10,12 +10,11 @@ I used a total of 3 videos of different sizes to plot with. In the filename, ‘
    *  <a href="https://plot.ly/~eonr/4/">2006-2hours-time-colored plot</a>
    *  <a href="https://plot.ly/~eonr/2/">2006-8hours-time-colored plot</a>
 2. Colored according to class - I decided to give all markers(faces) of the same class(person) the same color. On the right side of the plot, is a legend of clusters(traces). Clicking on a cluster enables/disables its display on the plot. (Always have more than 1 cluster showing on the plot, as it scales automatically depending on what is being displayed)
-
 ![Colored according to class](week5-2.png)
-   * <a href="https://plot.ly/~eonr/8/">SAA-person-colored plot</a>
-   * <a href="https://plot.ly/~eonr/10/">2006-2hours-person-colored plot</a>
+   *  <a href="https://plot.ly/~eonr/8/">SAA-person-colored plot</a>
+   *  <a href="https://plot.ly/~eonr/10/">2006-2hours-person-colored plot</a>
 3. This time, I plotted the 2 features on a 2D plot, with the x axis representing time and the y axis representing the value of the feature. Each class has 2 traces in the plot, feature-1 and feature-2 consecutively. 
-   * <a href="https://plot.ly/~eonr/12/feature-1-feature-2-feature-1-feature-2-feature-1-feature-2-feature-1-feature-2-/">2006-2hours-2DScatter</a>
+   *  <a href="https://plot.ly/~eonr/12/feature-1-feature-2-feature-1-feature-2-feature-1-feature-2-feature-1-feature-2-/">2006-2hours-2DScatter</a>
 
 #### <b>Inference</b>: 
 <b>The words <i>anchor</i> and <i>host</i> are used interchangeably</b><br>

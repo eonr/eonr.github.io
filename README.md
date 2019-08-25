@@ -6,7 +6,8 @@ Code and instructions available in the repository - <a href="https://github.com/
 
 ## Weekly Progress:
 
-### [Week 1 - Community bonding + Research]({% post_url week1/week1.md %})<a href="week1/week1.md">Week 1  - Community bonding + Research</a><br>
+### [Week 1 - Community bonding + Research]({% post_url week1/week1.md %})
+<a href="week1/week1.md">Week 1  - Community bonding + Research</a><br>
 ### <a href="week2/week2.md">Week 2 - Scene Boundary Detection</a><br>
 ### <a href="week3/week3.md">Week 3 - Hierarchial clustering of Keyframes</a><br>
 ### <a href="week4/week4.md">Week 4 - Video Summarization for Keyframes</a><br>

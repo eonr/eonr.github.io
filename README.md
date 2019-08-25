@@ -6,11 +6,8 @@ Code and instructions available in the repository - <a href="https://github.com/
 
 ## Weekly Progress:
 
-### [Link to a post]({% link week1/week1.md %})
-
-### {% link week1/week1.md %}
-
-### [Link]({{ site.baseurl }}{% link week1/week1.md %})
+### [Week 1  - Community bonding + Research]({% link week1/week1.md %})
+### [Week 2  - Community bonding + Research](week1/week1.md)
 
 ### <a href="week1/week1.md">Week 1  - Community bonding + Research</a><br>
 ### <a href="week2/week2.md">Week 2 - Scene Boundary Detection</a><br>

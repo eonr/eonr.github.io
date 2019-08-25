@@ -1,5 +1,5 @@
 ## Week 2 - Scene Boundary Detection
-Scene Boundary Detection seemed like it was worth giving a shot at. So I decided to read more about it this week and try to write some code for the same.<br><br>
+Scene Boundary Detection seemed like it was worth giving a shot at. So I decided to read more about it this week and try to write some code for the same.<br>
 
 I went through a couple more papers,
 * <a href="https://arxiv.org/pdf/1510.08893.pdf">A Deep Siamese Network for Scene Detection in Broadcast Videos</a>.

@@ -1,5 +1,5 @@
 ## Week 3 - Hierarchial clustering of Keyframes
-As promising as the results were for that small clip, I had to fine-tune the similarity threshold a bit to get the final result. This is bad because this threshold would be different for different shows based on the colors/ camera angles in the video. So we decided to use a Deep Neural Network to try and get more objective results.<br><br>
+As promising as the results were for that small clip, I had to fine-tune the similarity threshold a bit to get the final result. This is bad because this threshold would be different for different shows based on the colors/ camera angles in the video. So we decided to use a Deep Neural Network to try and get more objective results.<br>
 
 ### Clustering VGG-16 features
 

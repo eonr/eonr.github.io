@@ -87,4 +87,4 @@ WE HAVE FIRE AND RAIN.
 FIRES SCORCHING THE SOUTHWEST   
 AND ENTI TOWNS HAVE BEEN WIPED
 ```
-<br><br>In the following weeks, I worked on setting up the MSCeleb dataset on the HPC cluster and creating a celeb-detection model out of it which will be discussed in the next blog.
+<br>In the following weeks, I worked on setting up the MSCeleb dataset on the HPC cluster and creating a celeb-detection model out of it which will be discussed in the next blog.

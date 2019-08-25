@@ -14,7 +14,6 @@ I used a total of 3 videos of different sizes to plot with. In the filename, ‘
 ![Colored according to class](week5-2.png)
    * <a href="https://plot.ly/~eonr/8/">SAA-person-colored plot</a>
    * <a href="https://plot.ly/~eonr/10/">2006-2hours-person-colored plot</a>
-
 3. This time, I plotted the 2 features on a 2D plot, with the x axis representing time and the y axis representing the value of the feature. Each class has 2 traces in the plot, feature-1 and feature-2 consecutively. 
    * <a href="https://plot.ly/~eonr/12/feature-1-feature-2-feature-1-feature-2-feature-1-feature-2-feature-1-feature-2-/">2006-2hours-2DScatter</a>
 

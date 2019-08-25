@@ -5,3 +5,4 @@ I'll be posting blogs here talking about my progress in the project <a href="htt
 ### Progress:
 
 <a href="week1.md">Week 1 - Community bonding</a>
+<a href="week2.md">Week 2 - Community bonding</a>

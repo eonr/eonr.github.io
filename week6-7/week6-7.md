@@ -34,6 +34,7 @@ So using the above 15-minute-segment code's output, we get a bunch of shows.
 | 8       | g      | f      |        |        |
 
 From this information, we extract the following shows: <br>
+
 | Host | start_segment | end_segment |
 |------|---------------|-------------|
 | b    | 1             | 4           |

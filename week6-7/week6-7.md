@@ -58,7 +58,7 @@ We have to filter these out from our list, for which after a lot of experimentat
 The filtering algorithm's rules are listed in order:
 1. We remove shows that are too short (\<20 minutes) in length.
 2. We remove shows within shows. For example, if show X is from 0 to 60 and show Y is from 5 to 50, show Y is removed.
-3. We merge consecutive shows with very high overlap.boat For example, X is from 0 to 55 and Y is from 5 to 60. We combine these into a single show from 0 to 60 and both the hosts are considered hosts of the show.
+3. We merge consecutive shows with very high overlap. For example, X is from 0 to 55 and Y is from 5 to 60. We combine these into a single show from 0 to 60 and both the hosts are considered hosts of the show.
 4. We remove shows which overlap between two shows. For example, X is from 0 to 60, Y is from 65 to 130 and Z is from 50 to 80. Z is removed from our list.
 5. In the end, if starting time of a show is less than the ending time of the previous show, its starting time is taken as the ending time of the previous show. For example, X is from 0 to 60, Y is from 55 to 130. Y is changed to be from 60 to 130. This problem generally arises when show Y is 'teased' during the end of show X in the video.
 

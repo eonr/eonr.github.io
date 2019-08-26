@@ -22,7 +22,7 @@ The results were promising so I took a free trial of Azure's computer vision ser
 ### Subtitle Analysis
 The feasibility tests for this were performed on .srt files instead of .txt3 files as these are easier to work with. But if put into production, .txt3 files are the ones to work on as some videos do not have a .srt file. The notebook for this can be found <a href="https://github.com/eonr/ShowSegmentation/blob/master/W6-7-end-show_identification/Subtitle%20analysis.ipynb">here</a>.<br> I used <a href="http://www.nltk.org/api/nltk.tag.html?highlight=stanford#nltk.tag.stanford.NERTagger">Stanford's NERT Tagger</a> to identify names of people and organizations(shows) present in the subtitle file, but finding out the name of the host/show from this bunch of names would require a rule-based model/ deep-learning model.
 
-Due on time constraints, we couldn't work further on the subtitles method but only on the MS-Celeb method.
+Due to time constraints, we couldn't work further on the subtitles method but only on the MS-Celeb method.
 But all the information regarding the anchors' names and the show's name are present in the subtitles. One 'just' needs to find a suitable way to model/extract this information.
 
 

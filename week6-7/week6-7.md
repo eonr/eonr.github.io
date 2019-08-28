@@ -49,8 +49,11 @@ For simplicity, I'm only mentioning the start and end segments here. But the act
 <br><br>
 These are all taken as shows for now.
 But in the original video, there are only two shows
-* b - from 1 to 4
-* g - from 5 to 8
+
+| Host | start_segment | end_segment |
+|------|---------------|-------------|
+| b    | 1             | 4           |
+| g    | 5             | 8           |
 
 The others are just guests or news reporters who appear in the show but are not the hosts.<br>
 We have to filter these out from our list, for which after a lot of experimentation I defined a few rules that a show must follow to be considered as one. A show which doesn't follow any of these will be removed from our list

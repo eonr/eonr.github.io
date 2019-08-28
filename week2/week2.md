@@ -5,7 +5,7 @@ I went through a couple more papers,
 * <a href="https://arxiv.org/pdf/1510.08893.pdf">A Deep Siamese Network for Scene Detection in Broadcast Videos</a>.
 * <a href="http://ieeexplore.ieee.org.sci-hub.tw/xpl/artic%C2%ADleDetails.jsp?arnumber=7177476">Scene Segmentation using Temporal Clustering for accessing and re-using broadcast video</a>
 
-But I couldn't find any pre-implemented/ publicly available code for ScBD online, so I decided to code it out on a naive scale to test if it'd work on our dataset.
+but I couldn't find any pre-implemented/ publicly available code for ScBD online, so I decided to code it out on a naive scale to test if it'd work on our dataset.
 
 ### SSIM similarity between consecutive frames:
 For ScBD, the naive, vague idea is to find where the video changes visually. So I used an image-similarity metric called <a href="https://en.wikipedia.org/wiki/Structural_similarity">SSIM</a> to go frame by frame in the video, compute the SSIM between two consecutive frames, and then plotted the results using matplotlib.<br>
